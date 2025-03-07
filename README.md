@@ -16,8 +16,7 @@ Welcome to the **Recipe Contest App**! This is a fully responsive web applicatio
 ## Live Demo
 
 Check out the live demo of the app:  
-[Recipe Contest App on Vercel](#)  
-_(Replace with your deployment link)_
+[Recipe Contest App on Vercel](https://recipe-contest-app-psi.vercel.app/)  
 
 ---
 
@@ -33,7 +32,7 @@ _(Replace with your deployment link)_
 - **React.js**: Frontend library for building user interfaces.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **JavaScript**: For implementing search, sorting, and filtering logic.
-- **Vercel/Netlify**: For deployment.
+- **Vercel**: For deployment.
 
 ---
 
